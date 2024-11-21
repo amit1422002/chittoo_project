@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "593163433187",
+    "project_id": "chittoo-bf414",
+    "storage_bucket": "chittoo-bf414.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593163433187:android:2770b210748419553381d6",
+        "android_client_info": {
+          "package_name": "com.example.chittoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593163433187-4l8sspd25atkbr8jhsm460sc47aasmt6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chittoo",
+            "certificate_hash": "7f72ab9b39edcb355a5917b73491f71ba62eb915"
+          }
+        },
+        {
+          "client_id": "593163433187-c5ns0ia2m8q75taedgulpnk4drspheug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9EJJT9RVsReAGzUo6osRwgyEO_YQKol4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593163433187-c5ns0ia2m8q75taedgulpnk4drspheug.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "593163433187-0v4cahoi2i8qu6cnutdnqprjrm9vpvft.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chittoo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
